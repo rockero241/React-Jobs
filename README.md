@@ -10,4 +10,7 @@ Currently, two official plugins are available:
 
 To do: 
 Add functionality for other pages
-Make entire website functional/
+Make entire website functional
+
+Issues:
+Postcss.config treating program as ES, suggested fix: rename to CJS

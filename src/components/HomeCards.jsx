@@ -1,6 +1,6 @@
 import React from 'react'
 import Card from './Card'
-import {Link}
+import {Link} from 'react-router-dom';
 
 function HomeCards() {
   return (  <section className="py-4">
