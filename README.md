@@ -11,6 +11,6 @@ Currently, two official plugins are available:
 To do: 
 Add functionality for other pages
 Make entire website functional
+Set up website with a hosting server to show on github?
 
 Issues:
-Postcss.config treating program as ES, suggested fix: rename to CJS
